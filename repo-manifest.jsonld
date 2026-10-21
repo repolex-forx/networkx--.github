@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/networkx/.github/commit/e1f609fdc7a0269344ca81dc57b51cdcde3d814c",
       "git:hexsha": "e1f609fdc7a0269344ca81dc57b51cdcde3d814c",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
