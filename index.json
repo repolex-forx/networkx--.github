@@ -1,0 +1,11 @@
+{
+  "org": "networkx",
+  "repo": ".github",
+  "versions": [
+    {
+      "commit": "e1f609fdc7a0269344ca81dc57b51cdcde3d814c",
+      "tag": "",
+      "parsed_at": "2026-10-21T19:28:14.123261+00:00"
+    }
+  ]
+}
