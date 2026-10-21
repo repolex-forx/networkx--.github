@@ -1,0 +1,21 @@
+{
+  "manifest_version": "1.0",
+  "org": "networkx",
+  "repo": ".github",
+  "versions": [
+    {
+      "commit": "e1f609fdc7a0269344ca81dc57b51cdcde3d814c",
+      "parsed_at": "2026-10-21T19:26:01.610749+00:00",
+      "filetree": "filetree/e1f609fdc7a0269344ca81dc57b51cdcde3d814c.nq.gz",
+      "blobs": [
+        "blob/23ae15e13fa2e66c31ee6f887f200ca3d9cd6df5.nq.gz",
+        "blob/0e259d42c996742e9e3cba14c677129b2c1b6311.nq.gz",
+        "blob/a46ae92d6be3af621898326ec6d32d78dafa5854.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
